@@ -1,3 +1,4 @@
 This is a test file being added to the repo, I wish for it to be added to our remote repo too.
 Added to test gitk.
 Here is another line to be added post merge.This is to test a merge.
+This line is being added so I can test merging the same file with changes in different places of the files.
